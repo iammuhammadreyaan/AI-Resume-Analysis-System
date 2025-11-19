@@ -3,18 +3,18 @@ A fully automated AI Resume Analysis System that processes incoming resumes, ana
 
 🚀 AI Résumé Analysis System (n8n Automation)
 
-A fully automated résumé screening pipeline built in n8n.
-This workflow receives incoming résumés, extracts their content, analyzes them using an AI Recruiter Agent, and stores the structured results in Google Sheets.
+A fully automated resume screening pipeline built in n8n.
+This workflow receives incoming resumes, extracts their content, analyzes them using an AI Recruiter Agent, and stores the structured results in Google Sheets.
 
 📌 Features
 
-✔️ Automatically processes résumés received via Gmail
+✔️ Automatically processes resumes received via Gmail
 
 ✔️ Supports PDF, DOCX, and TXT files
 
 ✔️ Extracts text using format-specific methods
 
-✔️ Standardizes the résumé for consistent AI input
+✔️ Standardizes the resume for consistent AI input
 
 ✔️ Uses a Recruiter AI Agent for evaluation
 
